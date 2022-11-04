@@ -1,0 +1,9 @@
+# Site settings
+title: CS_499: e-Portfolio
+author:
+  name: Samip Pandey
+  #email: your-email@domain.com
+description: "ePortfolio for CS-499"
+
+# Build settings
+remote_theme: jekyll/minima
